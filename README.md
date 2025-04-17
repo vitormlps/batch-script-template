@@ -2,7 +2,7 @@
 
 This is a batch (.bat) script template, providing command-line arguments and flags.
 
-> [! IMPORTANT]
+> [!IMPORTANT]
 > Quick reminder: open Command Prompt (CMD) before running the script. It will not be recognized on a bash terminal - for obvious reasons.
 
 ## HOW TO RUN
